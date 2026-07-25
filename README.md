@@ -140,7 +140,7 @@ Show my pending tasks.
 
 ## 📸 Demo
 
-(Add screenshots or GIFs here)
+Streamlit -- [https://ai-sql-task-manager.streamlit.app/]
 
 ---
 
@@ -175,10 +175,6 @@ Show my pending tasks.
 **Veer Tiwari**
 
 AI Engineer | Machine Learning | Generative AI
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
 
 ---
 
